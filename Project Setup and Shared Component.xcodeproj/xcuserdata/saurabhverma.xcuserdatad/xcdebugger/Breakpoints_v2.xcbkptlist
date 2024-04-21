@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA6D2FA0-308E-45FA-A192-987E91EBDFD4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A72502F-F190-435A-8BDA-009C7B15893B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project Setup and Shared Component/Shared/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBFDF597-6139-4334-9758-2EE31669B962"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project Setup and Shared Component/Shared/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBFDF597-6139-4334-9758-2EE31669B962 - f1657c8fc1eaeab8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Project_Setup_and_Shared_Component.DatabaseHelper.getUsers() async throws -&gt; Swift.Optional&lt;Swift.Array&lt;Project_Setup_and_Shared_Component.User&gt;&gt;"
+                  moduleName = "Project Setup and Shared Component"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhverma/Downloads/SwiftUI-Learning/Project%20Setup%20and%20Shared%20Component/Project%20Setup%20and%20Shared%20Component/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36">
+               </Location>
+               <Location
+                  uuid = "EBFDF597-6139-4334-9758-2EE31669B962 - a9e3d9b1911e0cb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Project_Setup_and_Shared_Component.DatabaseHelper.getUsers() async throws -&gt; Swift.Optional&lt;Swift.Array&lt;Project_Setup_and_Shared_Component.User&gt;&gt;"
+                  moduleName = "Project Setup and Shared Component"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhverma/Downloads/SwiftUI-Learning/Project%20Setup%20and%20Shared%20Component/Project%20Setup%20and%20Shared%20Component/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1377A806-0615-4330-8930-C013EFE68795"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project Setup and Shared Component/Shared/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getProduct()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "419E1959-62D1-43DA-B3AA-7B605EB62531"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project Setup and Shared Component/Shared/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getProduct()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "419E1959-62D1-43DA-B3AA-7B605EB62531 - 872f5fb4adc798b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Project_Setup_and_Shared_Component.DatabaseHelper.getProduct() async throws -&gt; Swift.Optional&lt;Swift.Array&lt;Project_Setup_and_Shared_Component.Product&gt;&gt;"
+                  moduleName = "Project Setup and Shared Component"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhverma/Downloads/SwiftUI-Learning/Project%20Setup%20and%20Shared%20Component/Project%20Setup%20and%20Shared%20Component/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+               <Location
+                  uuid = "419E1959-62D1-43DA-B3AA-7B605EB62531 - 7b6f522bef4f6b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Project_Setup_and_Shared_Component.DatabaseHelper.getProduct() async throws -&gt; Swift.Optional&lt;Swift.Array&lt;Project_Setup_and_Shared_Component.Product&gt;&gt;"
+                  moduleName = "Project Setup and Shared Component"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhverma/Downloads/SwiftUI-Learning/Project%20Setup%20and%20Shared%20Component/Project%20Setup%20and%20Shared%20Component/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54885DD2-4BFE-4D95-B654-791FDDA53663"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project Setup and Shared Component/Shared/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getProduct()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54885DD2-4BFE-4D95-B654-791FDDA53663 - 81faf4e8f7aeddbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Project_Setup_and_Shared_Component.DatabaseHelper.getProduct() async throws -&gt; Swift.Optional&lt;Swift.Array&lt;Project_Setup_and_Shared_Component.Product&gt;&gt;"
+                  moduleName = "Project Setup and Shared Component"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhverma/Downloads/SwiftUI-Learning/Project%20Setup%20and%20Shared%20Component/Project%20Setup%20and%20Shared%20Component/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "54885DD2-4BFE-4D95-B654-791FDDA53663 - 81faf4e8f7aeddbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Project_Setup_and_Shared_Component.DatabaseHelper.getProduct() async throws -&gt; Swift.Optional&lt;Swift.Array&lt;Project_Setup_and_Shared_Component.Product&gt;&gt;"
+                  moduleName = "Project Setup and Shared Component"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhverma/Downloads/SwiftUI-Learning/Project%20Setup%20and%20Shared%20Component/Project%20Setup%20and%20Shared%20Component/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
